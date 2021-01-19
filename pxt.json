@@ -1,0 +1,29 @@
+{
+    "name": "sharck attack",
+    "description": "",
+    "dependencies": {
+        "device": "*",
+        "Color Fading": "github:jwunderl/pxt-color#v0.0.32",
+        "storyboard": "*",
+        "darts": "*",
+        "pxt-button-combos": "github:jwunderl/pxt-button-combos#v0.0.23",
+        "animation": "*",
+        "color-coded-tilemap": "*"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "target": "1.2.16",
+        "targetId": "arcade"
+    },
+    "supportedTargets": [
+        "arcade"
+    ],
+    "preferredEditor": "blocksprj"
+}
